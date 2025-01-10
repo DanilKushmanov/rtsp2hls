@@ -1,5 +1,6 @@
 .idea/
 .tmp/
+.vscode/
 
 go2rtc.yaml
 go2rtc.json
